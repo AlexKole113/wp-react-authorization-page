@@ -1,1 +1,1 @@
-# wp-react-autorization-page
+# wp-react-authorization-page
